@@ -1,7 +1,11 @@
 npm install -g create-react-app
+
 create-react-app blog
+
 cd blog/
+
 npm start
+
 
 
 # Getting Started with Create React App
